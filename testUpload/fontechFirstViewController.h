@@ -10,5 +10,6 @@
 #import "CommunicateWithInternet.h"
 
 @interface fontechFirstViewController : UIViewController
+- (void) upload;
 
 @end
